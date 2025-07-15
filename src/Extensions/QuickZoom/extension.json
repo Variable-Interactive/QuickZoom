@@ -1,0 +1,10 @@
+{
+"author": "Variable",
+"description": "Quick Zoom",
+"display_name": "Quick Zoom",
+"license": "MIT",
+"name": "QuickZoom",
+"nodes": ["Main.tscn"],
+"supported_api_versions": [6],
+"version": "0.1"
+}
